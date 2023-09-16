@@ -1,0 +1,963 @@
+[
+    {
+        "label": "bisect",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "bisect",
+        "description": "bisect",
+        "detail": "bisect",
+        "documentation": {}
+    },
+    {
+        "label": "saida",
+        "importPath": "Isolados.URI.URI_A.URI_1018",
+        "description": "Isolados.URI.URI_A.URI_1018",
+        "isExtraImport": true,
+        "detail": "Isolados.URI.URI_A.URI_1018",
+        "documentation": {}
+    },
+    {
+        "label": "deque",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "print(\"X",
+        "kind": 5,
+        "importPath": "URI_1001",
+        "description": "URI_1001",
+        "peekOfCode": "print(\"X = %d\" % (int(input()) + int(input())))",
+        "detail": "URI_1001",
+        "documentation": {}
+    },
+    {
+        "label": "PI",
+        "kind": 5,
+        "importPath": "URI_1002",
+        "description": "URI_1002",
+        "peekOfCode": "PI = 3.14159\nraio = float(input())\narea = PI * raio * raio\nprint(\"A=%.4f\" % (area))",
+        "detail": "URI_1002",
+        "documentation": {}
+    },
+    {
+        "label": "raio",
+        "kind": 5,
+        "importPath": "URI_1002",
+        "description": "URI_1002",
+        "peekOfCode": "raio = float(input())\narea = PI * raio * raio\nprint(\"A=%.4f\" % (area))",
+        "detail": "URI_1002",
+        "documentation": {}
+    },
+    {
+        "label": "area",
+        "kind": 5,
+        "importPath": "URI_1002",
+        "description": "URI_1002",
+        "peekOfCode": "area = PI * raio * raio\nprint(\"A=%.4f\" % (area))",
+        "detail": "URI_1002",
+        "documentation": {}
+    },
+    {
+        "label": "print(\"SOMA",
+        "kind": 5,
+        "importPath": "URI_1003",
+        "description": "URI_1003",
+        "peekOfCode": "print(\"SOMA = %d\" % (int(input()) + int(input())))",
+        "detail": "URI_1003",
+        "documentation": {}
+    },
+    {
+        "label": "print(\"PROD",
+        "kind": 5,
+        "importPath": "URI_1004",
+        "description": "URI_1004",
+        "peekOfCode": "print(\"PROD = %d\" % (int(input())*int(input())))",
+        "detail": "URI_1004",
+        "documentation": {}
+    },
+    {
+        "label": "nota",
+        "kind": 5,
+        "importPath": "URI_1005",
+        "description": "URI_1005",
+        "peekOfCode": "nota = (float(input())*3.5 + float(input())*7.5)/11\nprint(\"MEDIA = %.5f\" % nota)",
+        "detail": "URI_1005",
+        "documentation": {}
+    },
+    {
+        "label": "print(\"MEDIA",
+        "kind": 5,
+        "importPath": "URI_1005",
+        "description": "URI_1005",
+        "peekOfCode": "print(\"MEDIA = %.5f\" % nota)",
+        "detail": "URI_1005",
+        "documentation": {}
+    },
+    {
+        "label": "print(\"MEDIA",
+        "kind": 5,
+        "importPath": "URI_1006",
+        "description": "URI_1006",
+        "peekOfCode": "print(\"MEDIA = %.1f\" % (float(input())*0.2 +\n                        float(input())*0.3 +\n                        float(input())*0.5))",
+        "detail": "URI_1006",
+        "documentation": {}
+    },
+    {
+        "label": "print(\"DIFERENCA",
+        "kind": 5,
+        "importPath": "URI_1007",
+        "description": "URI_1007",
+        "peekOfCode": "print(\"DIFERENCA = %d\" % ((int(input()))*(int(input())) -\n                          (int(input()))*(int(input()))))",
+        "detail": "URI_1007",
+        "documentation": {}
+    },
+    {
+        "label": "print(\"NUMBER",
+        "kind": 5,
+        "importPath": "URI_1008",
+        "description": "URI_1008",
+        "peekOfCode": "print(\"NUMBER = \" + input() +\n      \"\\nSALARY = U$ %.2f\" % ((int(input())) * (float(input()))))",
+        "detail": "URI_1008",
+        "documentation": {}
+    },
+    {
+        "label": "print(\"TOTAL",
+        "kind": 5,
+        "importPath": "URI_1009",
+        "description": "URI_1009",
+        "peekOfCode": "print(\"TOTAL = R$ %.2f\" % (float(input()) +\n                           (float(input()) * 15)/100))",
+        "detail": "URI_1009",
+        "documentation": {}
+    },
+    {
+        "label": "print(\"VOLUME",
+        "kind": 5,
+        "importPath": "URI_1011",
+        "description": "URI_1011",
+        "peekOfCode": "print(\"VOLUME = %.3f\" % (((float(input()))**3)*3.14159*(4/3)))",
+        "detail": "URI_1011",
+        "documentation": {}
+    },
+    {
+        "label": "triangulo",
+        "kind": 5,
+        "importPath": "URI_1012",
+        "description": "URI_1012",
+        "peekOfCode": "triangulo = (a * c)/2\ncirculo = 3.14159 * (c * c)\ntrapezio = c * (a + b) / 2\nquadrado = b * b\nretangulo = a * b\nprint(\"TRIANGULO: %0.3f\" % triangulo)\nprint(\"CIRCULO: %0.3f\" % circulo)\nprint(\"TRAPEZIO: %0.3f\" % trapezio)\nprint(\"QUADRADO: %0.3f\" % quadrado)\nprint(\"RETANGULO: %0.3f\" % retangulo)",
+        "detail": "URI_1012",
+        "documentation": {}
+    },
+    {
+        "label": "circulo",
+        "kind": 5,
+        "importPath": "URI_1012",
+        "description": "URI_1012",
+        "peekOfCode": "circulo = 3.14159 * (c * c)\ntrapezio = c * (a + b) / 2\nquadrado = b * b\nretangulo = a * b\nprint(\"TRIANGULO: %0.3f\" % triangulo)\nprint(\"CIRCULO: %0.3f\" % circulo)\nprint(\"TRAPEZIO: %0.3f\" % trapezio)\nprint(\"QUADRADO: %0.3f\" % quadrado)\nprint(\"RETANGULO: %0.3f\" % retangulo)",
+        "detail": "URI_1012",
+        "documentation": {}
+    },
+    {
+        "label": "trapezio",
+        "kind": 5,
+        "importPath": "URI_1012",
+        "description": "URI_1012",
+        "peekOfCode": "trapezio = c * (a + b) / 2\nquadrado = b * b\nretangulo = a * b\nprint(\"TRIANGULO: %0.3f\" % triangulo)\nprint(\"CIRCULO: %0.3f\" % circulo)\nprint(\"TRAPEZIO: %0.3f\" % trapezio)\nprint(\"QUADRADO: %0.3f\" % quadrado)\nprint(\"RETANGULO: %0.3f\" % retangulo)",
+        "detail": "URI_1012",
+        "documentation": {}
+    },
+    {
+        "label": "quadrado",
+        "kind": 5,
+        "importPath": "URI_1012",
+        "description": "URI_1012",
+        "peekOfCode": "quadrado = b * b\nretangulo = a * b\nprint(\"TRIANGULO: %0.3f\" % triangulo)\nprint(\"CIRCULO: %0.3f\" % circulo)\nprint(\"TRAPEZIO: %0.3f\" % trapezio)\nprint(\"QUADRADO: %0.3f\" % quadrado)\nprint(\"RETANGULO: %0.3f\" % retangulo)",
+        "detail": "URI_1012",
+        "documentation": {}
+    },
+    {
+        "label": "retangulo",
+        "kind": 5,
+        "importPath": "URI_1012",
+        "description": "URI_1012",
+        "peekOfCode": "retangulo = a * b\nprint(\"TRIANGULO: %0.3f\" % triangulo)\nprint(\"CIRCULO: %0.3f\" % circulo)\nprint(\"TRAPEZIO: %0.3f\" % trapezio)\nprint(\"QUADRADO: %0.3f\" % quadrado)\nprint(\"RETANGULO: %0.3f\" % retangulo)",
+        "detail": "URI_1012",
+        "documentation": {}
+    },
+    {
+        "label": "maior",
+        "kind": 5,
+        "importPath": "URI_1013",
+        "description": "URI_1013",
+        "peekOfCode": "maior = (a + b + abs(a - b))//2 \nmaior = (maior + c + abs(maior - c))//2\nprint(maior, \"eh o maior\")",
+        "detail": "URI_1013",
+        "documentation": {}
+    },
+    {
+        "label": "maior",
+        "kind": 5,
+        "importPath": "URI_1013",
+        "description": "URI_1013",
+        "peekOfCode": "maior = (maior + c + abs(maior - c))//2\nprint(maior, \"eh o maior\")",
+        "detail": "URI_1013",
+        "documentation": {}
+    },
+    {
+        "label": "notas",
+        "kind": 5,
+        "importPath": "URI_1018",
+        "description": "URI_1018",
+        "peekOfCode": "notas = [100, 50, 20, 10, 5, 2, 1]\nsaida = input()\nvalor = int(saida)\nfor i in notas:\n    resto = valor//i\n    valor %= i\n    saida += (\"%d nota(s) de R$ %d,00\\n\" % (resto, i))\nprint(saida)",
+        "detail": "URI_1018",
+        "documentation": {}
+    },
+    {
+        "label": "saida",
+        "kind": 5,
+        "importPath": "URI_1018",
+        "description": "URI_1018",
+        "peekOfCode": "saida = input()\nvalor = int(saida)\nfor i in notas:\n    resto = valor//i\n    valor %= i\n    saida += (\"%d nota(s) de R$ %d,00\\n\" % (resto, i))\nprint(saida)",
+        "detail": "URI_1018",
+        "documentation": {}
+    },
+    {
+        "label": "valor",
+        "kind": 5,
+        "importPath": "URI_1018",
+        "description": "URI_1018",
+        "peekOfCode": "valor = int(saida)\nfor i in notas:\n    resto = valor//i\n    valor %= i\n    saida += (\"%d nota(s) de R$ %d,00\\n\" % (resto, i))\nprint(saida)",
+        "detail": "URI_1018",
+        "documentation": {}
+    },
+    {
+        "label": "N",
+        "kind": 5,
+        "importPath": "URI_1019",
+        "description": "URI_1019",
+        "peekOfCode": "N = int(input())\nH = N//3600\nhm = N - H*3600\nM = hm//60\nS = hm - M*60\nprint(\"{}:{}:{}\".format(H, M, S))",
+        "detail": "URI_1019",
+        "documentation": {}
+    },
+    {
+        "label": "H",
+        "kind": 5,
+        "importPath": "URI_1019",
+        "description": "URI_1019",
+        "peekOfCode": "H = N//3600\nhm = N - H*3600\nM = hm//60\nS = hm - M*60\nprint(\"{}:{}:{}\".format(H, M, S))",
+        "detail": "URI_1019",
+        "documentation": {}
+    },
+    {
+        "label": "hm",
+        "kind": 5,
+        "importPath": "URI_1019",
+        "description": "URI_1019",
+        "peekOfCode": "hm = N - H*3600\nM = hm//60\nS = hm - M*60\nprint(\"{}:{}:{}\".format(H, M, S))",
+        "detail": "URI_1019",
+        "documentation": {}
+    },
+    {
+        "label": "M",
+        "kind": 5,
+        "importPath": "URI_1019",
+        "description": "URI_1019",
+        "peekOfCode": "M = hm//60\nS = hm - M*60\nprint(\"{}:{}:{}\".format(H, M, S))",
+        "detail": "URI_1019",
+        "documentation": {}
+    },
+    {
+        "label": "S",
+        "kind": 5,
+        "importPath": "URI_1019",
+        "description": "URI_1019",
+        "peekOfCode": "S = hm - M*60\nprint(\"{}:{}:{}\".format(H, M, S))",
+        "detail": "URI_1019",
+        "documentation": {}
+    },
+    {
+        "label": "i",
+        "kind": 5,
+        "importPath": "URI_1020",
+        "description": "URI_1020",
+        "peekOfCode": "i = int(input())\na = i//365\nam = i - a*365\nm = am//30\nmd = am - m*30\nd = md\nprint(\"{} ano(s)\".format(a))\nprint(\"{} mes(es)\".format(m))\nprint(\"{} dia(s)\".format(d))",
+        "detail": "URI_1020",
+        "documentation": {}
+    },
+    {
+        "label": "a",
+        "kind": 5,
+        "importPath": "URI_1020",
+        "description": "URI_1020",
+        "peekOfCode": "a = i//365\nam = i - a*365\nm = am//30\nmd = am - m*30\nd = md\nprint(\"{} ano(s)\".format(a))\nprint(\"{} mes(es)\".format(m))\nprint(\"{} dia(s)\".format(d))",
+        "detail": "URI_1020",
+        "documentation": {}
+    },
+    {
+        "label": "am",
+        "kind": 5,
+        "importPath": "URI_1020",
+        "description": "URI_1020",
+        "peekOfCode": "am = i - a*365\nm = am//30\nmd = am - m*30\nd = md\nprint(\"{} ano(s)\".format(a))\nprint(\"{} mes(es)\".format(m))\nprint(\"{} dia(s)\".format(d))",
+        "detail": "URI_1020",
+        "documentation": {}
+    },
+    {
+        "label": "m",
+        "kind": 5,
+        "importPath": "URI_1020",
+        "description": "URI_1020",
+        "peekOfCode": "m = am//30\nmd = am - m*30\nd = md\nprint(\"{} ano(s)\".format(a))\nprint(\"{} mes(es)\".format(m))\nprint(\"{} dia(s)\".format(d))",
+        "detail": "URI_1020",
+        "documentation": {}
+    },
+    {
+        "label": "md",
+        "kind": 5,
+        "importPath": "URI_1020",
+        "description": "URI_1020",
+        "peekOfCode": "md = am - m*30\nd = md\nprint(\"{} ano(s)\".format(a))\nprint(\"{} mes(es)\".format(m))\nprint(\"{} dia(s)\".format(d))",
+        "detail": "URI_1020",
+        "documentation": {}
+    },
+    {
+        "label": "d",
+        "kind": 5,
+        "importPath": "URI_1020",
+        "description": "URI_1020",
+        "peekOfCode": "d = md\nprint(\"{} ano(s)\".format(a))\nprint(\"{} mes(es)\".format(m))\nprint(\"{} dia(s)\".format(d))",
+        "detail": "URI_1020",
+        "documentation": {}
+    },
+    {
+        "label": "encripty_str",
+        "kind": 2,
+        "importPath": "URI_1024",
+        "description": "URI_1024",
+        "peekOfCode": "def encripty_str(string0):\n    texto = list(string0)\n    L = len(texto)\n    meio = L//2\n    texto.reverse()\n    for i in range(L):\n        cond0 = int(texto[i].isalpha())\n        cond1 = int(i >= meio)\n        texto[i] = chr(ord(texto[i]) + 3*cond0 - cond1)\n    return ''.join(texto)",
+        "detail": "URI_1024",
+        "documentation": {}
+    },
+    {
+        "label": "casos",
+        "kind": 5,
+        "importPath": "URI_1024",
+        "description": "URI_1024",
+        "peekOfCode": "casos = int(input())\nsaida = \"\"\nfor _ in range(casos):\n    saida += (encripty_str(input())) + \"\\n\"\nprint(saida)",
+        "detail": "URI_1024",
+        "documentation": {}
+    },
+    {
+        "label": "saida",
+        "kind": 5,
+        "importPath": "URI_1024",
+        "description": "URI_1024",
+        "peekOfCode": "saida = \"\"\nfor _ in range(casos):\n    saida += (encripty_str(input())) + \"\\n\"\nprint(saida)",
+        "detail": "URI_1024",
+        "documentation": {}
+    },
+    {
+        "label": "caso",
+        "kind": 5,
+        "importPath": "URI_1025",
+        "description": "URI_1025",
+        "peekOfCode": "caso = 1\nsaida = \"\"\nwhile True:\n    Npecas, Nquestions = (int(i) for i in input().split())\n    if Npecas == Nquestions == 0:\n        break\n    Marbles = []\n    for i in range(Npecas):\n        N = int(input())\n        bisect.insort(Marbles, N)",
+        "detail": "URI_1025",
+        "documentation": {}
+    },
+    {
+        "label": "saida",
+        "kind": 5,
+        "importPath": "URI_1025",
+        "description": "URI_1025",
+        "peekOfCode": "saida = \"\"\nwhile True:\n    Npecas, Nquestions = (int(i) for i in input().split())\n    if Npecas == Nquestions == 0:\n        break\n    Marbles = []\n    for i in range(Npecas):\n        N = int(input())\n        bisect.insort(Marbles, N)\n    saida += (\"CASE# %d:\\n\" % (caso))",
+        "detail": "URI_1025",
+        "documentation": {}
+    },
+    {
+        "label": "mapa",
+        "kind": 5,
+        "importPath": "URI_1037",
+        "description": "URI_1037",
+        "peekOfCode": "mapa = [\"Fora de intervalo\", \"Intervalo [0,25]\",\n        \"Intervalo (25,50]\", \"Intervalo (50,75]\",\n        \"Intervalo (75,100]\"]\nv = (float(input()))\nidx = (((v % 25) != 0) + int(v//25) + (not v))\nprint(mapa[idx*((v >= 0) and (v <= 100))])",
+        "detail": "URI_1037",
+        "documentation": {}
+    },
+    {
+        "label": "v",
+        "kind": 5,
+        "importPath": "URI_1037",
+        "description": "URI_1037",
+        "peekOfCode": "v = (float(input()))\nidx = (((v % 25) != 0) + int(v//25) + (not v))\nprint(mapa[idx*((v >= 0) and (v <= 100))])",
+        "detail": "URI_1037",
+        "documentation": {}
+    },
+    {
+        "label": "idx",
+        "kind": 5,
+        "importPath": "URI_1037",
+        "description": "URI_1037",
+        "peekOfCode": "idx = (((v % 25) != 0) + int(v//25) + (not v))\nprint(mapa[idx*((v >= 0) and (v <= 100))])",
+        "detail": "URI_1037",
+        "documentation": {}
+    },
+    {
+        "label": "mapa",
+        "kind": 5,
+        "importPath": "URI_1038",
+        "description": "URI_1038",
+        "peekOfCode": "mapa = [0, 4, 4.5, 5, 2, 1.5]\nc, n = (int(i) for i in input().split())\nprint(\"Total: R$ %.2f\" % (n*mapa[c]))",
+        "detail": "URI_1038",
+        "documentation": {}
+    },
+    {
+        "label": "M",
+        "kind": 5,
+        "importPath": "URI_1040",
+        "description": "URI_1040",
+        "peekOfCode": "M = (N1*2 + N2*3 + N3*4 + N4)/10\nprint(\"Media: %.1f\" % M)\nif M >= 7:\n    print(\"Aluno aprovado.\")\nelif M < 5:\n    print(\"Aluno reprovado.\")\nelse:\n    print(\"Aluno em exame.\")\n    NE = float(input())\n    print(\"Nota do exame: %.1f\" % NE)",
+        "detail": "URI_1040",
+        "documentation": {}
+    },
+    {
+        "label": "mapa",
+        "kind": 5,
+        "importPath": "URI_1041",
+        "description": "URI_1041",
+        "peekOfCode": "mapa = [\"Origem\", \"Q1\", \"Q2\", \"Q3\", \"Q4\", \"Eixo X\", \"Eixo Y\"]\nx, y = (float(i) for i in input().split())\ncond0, cond1, cond2, cond3 = (x > 0), (y > 0), (x < 0), (y < 0)\nidx = (cond0*(cond1 + 4*cond3)) + (cond2*(2*cond1 + 3*cond3))\nidx += 5*((not y) and bool(x)) + 6*((not x) and bool(y))\nprint(mapa[idx])",
+        "detail": "URI_1041",
+        "documentation": {}
+    },
+    {
+        "label": "idx",
+        "kind": 5,
+        "importPath": "URI_1041",
+        "description": "URI_1041",
+        "peekOfCode": "idx = (cond0*(cond1 + 4*cond3)) + (cond2*(2*cond1 + 3*cond3))\nidx += 5*((not y) and bool(x)) + 6*((not x) and bool(y))\nprint(mapa[idx])",
+        "detail": "URI_1041",
+        "documentation": {}
+    },
+    {
+        "label": "saida",
+        "kind": 5,
+        "importPath": "URI_1062",
+        "description": "URI_1062",
+        "peekOfCode": "saida = \"\"\nwhile True:\n    Nvagoes = int(input())  # Número de vagões\n    if not Nvagoes:\n        break  # Fim da entrada\n    while True:\n        perm = input()\n        if perm == \"0\":\n            saida += \"\\n\"\n            break",
+        "detail": "URI_1062",
+        "documentation": {}
+    },
+    {
+        "label": "saida",
+        "kind": 5,
+        "importPath": "URI_1063",
+        "description": "URI_1063",
+        "peekOfCode": "saida = \"\"\nwhile True:\n    Nvagoes = int(input())  # Número de vagões\n    if not Nvagoes:\n        break  # Fim da entrada\n    ordem_a = input().split()\n    ordem_esperada = input().split()\n    stack = []\n    ordem_b = []\n    for vagao in ordem_a:",
+        "detail": "URI_1063",
+        "documentation": {}
+    },
+    {
+        "label": "saida",
+        "kind": 5,
+        "importPath": "URI_1068",
+        "description": "URI_1068",
+        "peekOfCode": "saida = \"\"\nwhile True:\n    try:\n        eq = input()\n        stack = 0\n        for char in eq:\n            if char == \"(\":\n                stack += 1\n            elif char == \")\":\n                stack -= 1",
+        "detail": "URI_1068",
+        "documentation": {}
+    },
+    {
+        "label": "saida",
+        "kind": 5,
+        "importPath": "URI_1069",
+        "description": "URI_1069",
+        "peekOfCode": "saida = ''\nNtestes = int(input())\nfor _ in range(Ntestes):\n    teste = input()\n    diamantes = 0\n    stack = 0\n    for i in teste:\n        if i == \"<\":\n            stack += 1\n        # se fechar o diamante",
+        "detail": "URI_1069",
+        "documentation": {}
+    },
+    {
+        "label": "Ntestes",
+        "kind": 5,
+        "importPath": "URI_1069",
+        "description": "URI_1069",
+        "peekOfCode": "Ntestes = int(input())\nfor _ in range(Ntestes):\n    teste = input()\n    diamantes = 0\n    stack = 0\n    for i in teste:\n        if i == \"<\":\n            stack += 1\n        # se fechar o diamante\n        elif i == \">\" and stack:",
+        "detail": "URI_1069",
+        "documentation": {}
+    },
+    {
+        "label": "saidas",
+        "kind": 5,
+        "importPath": "URI_1091",
+        "description": "URI_1091",
+        "peekOfCode": "saidas = [\"divisa\\n\", \"SO\\n\", \"SE\\n\", \"NO\\n\", \"NE\\n\"]\noutput = \"\"\nwhile True:\n    consultas = int(input())\n    if consultas == 0:\n        break\n    n, m = input().split()\n    n, m = int(n), int(m)\n    for _ in range(consultas):\n        x, y = [int(i) for i in input().split()]",
+        "detail": "URI_1091",
+        "documentation": {}
+    },
+    {
+        "label": "output",
+        "kind": 5,
+        "importPath": "URI_1091",
+        "description": "URI_1091",
+        "peekOfCode": "output = \"\"\nwhile True:\n    consultas = int(input())\n    if consultas == 0:\n        break\n    n, m = input().split()\n    n, m = int(n), int(m)\n    for _ in range(consultas):\n        x, y = [int(i) for i in input().split()]\n        # divisa",
+        "detail": "URI_1091",
+        "documentation": {}
+    },
+    {
+        "label": "casos",
+        "kind": 5,
+        "importPath": "URI_1094",
+        "description": "URI_1094",
+        "peekOfCode": "casos = int(input())\ntipos = {\"C\": 0, \"R\": 0, \"S\": 0}\nfor _ in range(casos):\n    experiencia = input().split()\n    tipos[experiencia[1]] += int(experiencia[0])\ntotal = tipos[\"C\"] + tipos[\"R\"] + tipos[\"S\"]\nprint(\"Total:\", total, \"cobaias\")\nprint(\"Total de coelhos:\", tipos[\"C\"])\nprint(\"Total de ratos:\", tipos[\"R\"])\nprint(\"Total de sapos:\", tipos[\"S\"])",
+        "detail": "URI_1094",
+        "documentation": {}
+    },
+    {
+        "label": "tipos",
+        "kind": 5,
+        "importPath": "URI_1094",
+        "description": "URI_1094",
+        "peekOfCode": "tipos = {\"C\": 0, \"R\": 0, \"S\": 0}\nfor _ in range(casos):\n    experiencia = input().split()\n    tipos[experiencia[1]] += int(experiencia[0])\ntotal = tipos[\"C\"] + tipos[\"R\"] + tipos[\"S\"]\nprint(\"Total:\", total, \"cobaias\")\nprint(\"Total de coelhos:\", tipos[\"C\"])\nprint(\"Total de ratos:\", tipos[\"R\"])\nprint(\"Total de sapos:\", tipos[\"S\"])\nprint(\"Percentual de coelhos: %.2f %%\" % (100*tipos[\"C\"]/total))",
+        "detail": "URI_1094",
+        "documentation": {}
+    },
+    {
+        "label": "total",
+        "kind": 5,
+        "importPath": "URI_1094",
+        "description": "URI_1094",
+        "peekOfCode": "total = tipos[\"C\"] + tipos[\"R\"] + tipos[\"S\"]\nprint(\"Total:\", total, \"cobaias\")\nprint(\"Total de coelhos:\", tipos[\"C\"])\nprint(\"Total de ratos:\", tipos[\"R\"])\nprint(\"Total de sapos:\", tipos[\"S\"])\nprint(\"Percentual de coelhos: %.2f %%\" % (100*tipos[\"C\"]/total))\nprint(\"Percentual de ratos: %.2f %%\" % (100*tipos[\"R\"]/total))\nprint(\"Percentual de sapos: %.2f %%\" % (100*tipos[\"S\"]/total))",
+        "detail": "URI_1094",
+        "documentation": {}
+    },
+    {
+        "label": "saida",
+        "kind": 5,
+        "importPath": "URI_1103",
+        "description": "URI_1103",
+        "peekOfCode": "saida = \"\"\nwhile True:\n    entr = input().split()\n    if entr[0] == entr[1] == entr[2] == entr[3] == '0':\n        break\n    t1 = int(entr[0])*60 + int(entr[1])\n    t2 = int(entr[2])*60 + int(entr[3])\n    saida += str((t2 - t1) % 1440)\nprint(saida)",
+        "detail": "URI_1103",
+        "documentation": {}
+    },
+    {
+        "label": "saida",
+        "kind": 5,
+        "importPath": "URI_1110",
+        "description": "URI_1110",
+        "peekOfCode": "saida = []\nwhile True:\n    Ncartas = int(input())\n    if not Ncartas:\n        break\n    pilha = [i for i in range(Ncartas, 0, -1)]\n    descarte = []\n    while len(pilha) > 1:\n        descarte.append(str(pilha.pop()))\n        pilha.insert(0, pilha.pop())",
+        "detail": "URI_1110",
+        "documentation": {}
+    },
+    {
+        "label": "const_limiar",
+        "kind": 5,
+        "importPath": "URI_1129",
+        "description": "URI_1129",
+        "peekOfCode": "const_limiar = 127\nconst_A = ord(\"A\")\nconst_ast = ord(\"*\")\nsaida = \"\"\nwhile True:\n    questoes = int(input())\n    if questoes == 0:\n        break\n    for _ in range(questoes):\n        pergunta = input().split()",
+        "detail": "URI_1129",
+        "documentation": {}
+    },
+    {
+        "label": "const_A",
+        "kind": 5,
+        "importPath": "URI_1129",
+        "description": "URI_1129",
+        "peekOfCode": "const_A = ord(\"A\")\nconst_ast = ord(\"*\")\nsaida = \"\"\nwhile True:\n    questoes = int(input())\n    if questoes == 0:\n        break\n    for _ in range(questoes):\n        pergunta = input().split()\n        cont = 0",
+        "detail": "URI_1129",
+        "documentation": {}
+    },
+    {
+        "label": "const_ast",
+        "kind": 5,
+        "importPath": "URI_1129",
+        "description": "URI_1129",
+        "peekOfCode": "const_ast = ord(\"*\")\nsaida = \"\"\nwhile True:\n    questoes = int(input())\n    if questoes == 0:\n        break\n    for _ in range(questoes):\n        pergunta = input().split()\n        cont = 0\n        resp = [0, const_ast]",
+        "detail": "URI_1129",
+        "documentation": {}
+    },
+    {
+        "label": "saida",
+        "kind": 5,
+        "importPath": "URI_1129",
+        "description": "URI_1129",
+        "peekOfCode": "saida = \"\"\nwhile True:\n    questoes = int(input())\n    if questoes == 0:\n        break\n    for _ in range(questoes):\n        pergunta = input().split()\n        cont = 0\n        resp = [0, const_ast]\n        opcoes = len(pergunta)",
+        "detail": "URI_1129",
+        "documentation": {}
+    },
+    {
+        "label": "Nodo",
+        "kind": 6,
+        "importPath": "URI_1195",
+        "description": "URI_1195",
+        "peekOfCode": "class Nodo:\n    def __init__(self, valor: int):\n        self.valor = valor\n        self.left = None\n        self.right = None\n    def insere(self, filho):\n        if filho.valor > self.valor:\n            if self.right is None:\n                self.right = filho\n            else:",
+        "detail": "URI_1195",
+        "documentation": {}
+    },
+    {
+        "label": "saida",
+        "kind": 5,
+        "importPath": "URI_1195",
+        "description": "URI_1195",
+        "peekOfCode": "saida = []\nNcasos = int(input())\nfor caso in range(1, Ncasos + 1):\n    saida.append(\"Case %d:\\n\" % caso)\n    Nnodos = int(input())\n    nodos = [Nodo(int(i)) for i in input().split()]\n    head = nodos[0]\n    for i in nodos[1:]:\n        head.insere(i)\n    orders = ['Pre.: ', 'In..: ', 'Post: ']",
+        "detail": "URI_1195",
+        "documentation": {}
+    },
+    {
+        "label": "Ncasos",
+        "kind": 5,
+        "importPath": "URI_1195",
+        "description": "URI_1195",
+        "peekOfCode": "Ncasos = int(input())\nfor caso in range(1, Ncasos + 1):\n    saida.append(\"Case %d:\\n\" % caso)\n    Nnodos = int(input())\n    nodos = [Nodo(int(i)) for i in input().split()]\n    head = nodos[0]\n    for i in nodos[1:]:\n        head.insere(i)\n    orders = ['Pre.: ', 'In..: ', 'Post: ']\n    for order in orders:",
+        "detail": "URI_1195",
+        "documentation": {}
+    },
+    {
+        "label": "saida",
+        "kind": 5,
+        "importPath": "URI_1256",
+        "description": "URI_1256",
+        "peekOfCode": "saida = \"\"\nNcasos = int(input())\nfor caso in range(Ncasos):\n    Nenderecos, Nchaves = (int(i) for i in input().split())\n    chaves = input().split()\n    tabela = [[str(i)] for i in range(Nenderecos)]\n    for i in chaves:\n        tabela[int(i) % Nenderecos].append(i)\n    if caso:\n        saida += \"\\n\"",
+        "detail": "URI_1256",
+        "documentation": {}
+    },
+    {
+        "label": "Ncasos",
+        "kind": 5,
+        "importPath": "URI_1256",
+        "description": "URI_1256",
+        "peekOfCode": "Ncasos = int(input())\nfor caso in range(Ncasos):\n    Nenderecos, Nchaves = (int(i) for i in input().split())\n    chaves = input().split()\n    tabela = [[str(i)] for i in range(Nenderecos)]\n    for i in chaves:\n        tabela[int(i) % Nenderecos].append(i)\n    if caso:\n        saida += \"\\n\"\n    for i in tabela:",
+        "detail": "URI_1256",
+        "documentation": {}
+    },
+    {
+        "label": "saida",
+        "kind": 5,
+        "importPath": "URI_1387",
+        "description": "URI_1387",
+        "peekOfCode": "saida = \"\"\nwhile True:\n    e, r = input().split()\n    if e == r == '0':\n        break\n    saida += str(int(e) + int(r))\nprint(saida)",
+        "detail": "URI_1387",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "URI_1439",
+        "description": "URI_1439",
+        "peekOfCode": "def main():\n    while True:\n        P, M, N = map(int, input().split())\n        if P == 0 and M == 0 and N == 0:\n            break\n        players = [[] for _ in range(P)]\n        for i in range(P * M):\n            value, suit = input().split()\n            players[(i // M) % P].append((int(value), suit))\n        initial_card = input().split()",
+        "detail": "URI_1439",
+        "documentation": {}
+    },
+    {
+        "label": "get_next_player",
+        "kind": 2,
+        "importPath": "URI_1439",
+        "description": "URI_1439",
+        "peekOfCode": "def get_next_player(current_player, direction, num_players):\n    if direction == 'clockwise':\n        return (current_player + 1) % num_players\n    else:\n        return (current_player - 1 + num_players) % num_players\nmain()",
+        "detail": "URI_1439",
+        "documentation": {}
+    },
+    {
+        "label": "Node",
+        "kind": 6,
+        "importPath": "URI_1466",
+        "description": "URI_1466",
+        "peekOfCode": "class Node:\n    def __init__(self, value):\n        self.value = value\n        self.left = None\n        self.right = None\ndef insert(root, value):\n    if root is None:\n        return Node(value)\n    if value < root.value:\n        root.left = insert(root.left, value)",
+        "detail": "URI_1466",
+        "documentation": {}
+    },
+    {
+        "label": "insert",
+        "kind": 2,
+        "importPath": "URI_1466",
+        "description": "URI_1466",
+        "peekOfCode": "def insert(root, value):\n    if root is None:\n        return Node(value)\n    if value < root.value:\n        root.left = insert(root.left, value)\n    else:\n        root.right = insert(root.right, value)\n    return root\ndef print_bfs(root):\n    if root is None:",
+        "detail": "URI_1466",
+        "documentation": {}
+    },
+    {
+        "label": "print_bfs",
+        "kind": 2,
+        "importPath": "URI_1466",
+        "description": "URI_1466",
+        "peekOfCode": "def print_bfs(root):\n    if root is None:\n        return\n    queue = [root]\n    saida = \"\"\n    while queue:\n        current = queue.pop(0)\n        saida += str(current.value) + \" \"\n        if current.left:\n            queue.append(current.left)",
+        "detail": "URI_1466",
+        "documentation": {}
+    },
+    {
+        "label": "num_cases",
+        "kind": 5,
+        "importPath": "URI_1466",
+        "description": "URI_1466",
+        "peekOfCode": "num_cases = int(input())\nfor case in range(1, num_cases + 1):\n    n = int(input())\n    values = list(map(int, input().split()))\n    root = None\n    for value in values:\n        root = insert(root, value)\n    print(f\"Case {case}:\")\n    print_bfs(root)",
+        "detail": "URI_1466",
+        "documentation": {}
+    },
+    {
+        "label": "notas",
+        "kind": 5,
+        "importPath": "URI_2187",
+        "description": "URI_2187",
+        "peekOfCode": "notas = {50: 0, 10: 0, 5: 0, 1: 0}\nteste = 1\nsaida = \"\"\nwhile True:\n    valor = int(input())\n    if valor == 0:\n        break\n    saida += (\"Teste %d\\n\" % teste)\n    teste += 1\n    notas[50] = notas[10] = 0",
+        "detail": "URI_2187",
+        "documentation": {}
+    },
+    {
+        "label": "teste",
+        "kind": 5,
+        "importPath": "URI_2187",
+        "description": "URI_2187",
+        "peekOfCode": "teste = 1\nsaida = \"\"\nwhile True:\n    valor = int(input())\n    if valor == 0:\n        break\n    saida += (\"Teste %d\\n\" % teste)\n    teste += 1\n    notas[50] = notas[10] = 0\n    notas[5] = notas[1] = 0",
+        "detail": "URI_2187",
+        "documentation": {}
+    },
+    {
+        "label": "saida",
+        "kind": 5,
+        "importPath": "URI_2187",
+        "description": "URI_2187",
+        "peekOfCode": "saida = \"\"\nwhile True:\n    valor = int(input())\n    if valor == 0:\n        break\n    saida += (\"Teste %d\\n\" % teste)\n    teste += 1\n    notas[50] = notas[10] = 0\n    notas[5] = notas[1] = 0\n    for i in notas.keys():",
+        "detail": "URI_2187",
+        "documentation": {}
+    },
+    {
+        "label": "n",
+        "kind": 5,
+        "importPath": "URI_2312",
+        "description": "URI_2312",
+        "peekOfCode": "n = int(input())\ncountries = []\nfor _ in range(n):\n    name, gold, silver, bronze = input().split()\n    countries.append((name, int(gold), int(silver), int(bronze)))\ncountries.sort(key=lambda x: (-x[1], -x[2], -x[3], x[0]))\nfor country in countries:\n    name, gold, silver, bronze = country\n    print(f\"{name} {gold} {silver} {bronze}\")",
+        "detail": "URI_2312",
+        "documentation": {}
+    },
+    {
+        "label": "countries",
+        "kind": 5,
+        "importPath": "URI_2312",
+        "description": "URI_2312",
+        "peekOfCode": "countries = []\nfor _ in range(n):\n    name, gold, silver, bronze = input().split()\n    countries.append((name, int(gold), int(silver), int(bronze)))\ncountries.sort(key=lambda x: (-x[1], -x[2], -x[3], x[0]))\nfor country in countries:\n    name, gold, silver, bronze = country\n    print(f\"{name} {gold} {silver} {bronze}\")",
+        "detail": "URI_2312",
+        "documentation": {}
+    },
+    {
+        "label": "saida",
+        "kind": 5,
+        "importPath": "URI_2392",
+        "description": "URI_2392",
+        "peekOfCode": "saida = [\"\"]*(Npedras + 1)\nfor i in range(Nsapos):\n    pedraI, pulo = [int(i) for i in input().split()]\n    saida[pedraI] = \"1\\n\"\n    for j in range(pedraI, Npedras+1, pulo):\n        saida[j] = \"1\\n\"\n    for j in range(pedraI, 0, -pulo):\n        saida[j] = \"1\\n\"\nprint(\"\".join(saida), end='')",
+        "detail": "URI_2392",
+        "documentation": {}
+    },
+    {
+        "label": "is_well_defined",
+        "kind": 2,
+        "importPath": "URI_2406",
+        "description": "URI_2406",
+        "peekOfCode": "def is_well_defined(expression):\n    stack = []\n    for char in expression:\n        if char in \"([{\":\n            stack.append(char)\n        else:\n            if not stack:\n                return False\n            top = stack.pop()\n            if (top == \"(\" and char != \")\") or (top == \"[\" and char != \"]\") or (top == \"{\" and char != \"}\"):",
+        "detail": "URI_2406",
+        "documentation": {}
+    },
+    {
+        "label": "t",
+        "kind": 5,
+        "importPath": "URI_2406",
+        "description": "URI_2406",
+        "peekOfCode": "t = int(input())\nfor _ in range(t):\n    expression = input().strip()\n    result = \"S\" if is_well_defined(expression) else \"N\"\n    print(result)",
+        "detail": "URI_2406",
+        "documentation": {}
+    },
+    {
+        "label": "find_brinquedos",
+        "kind": 2,
+        "importPath": "URI_2422",
+        "description": "URI_2422",
+        "peekOfCode": "def find_brinquedos(casas, k):\n    left, right = 0, len(casas) - 1\n    while left < right:\n        current_sum = casas[left] + casas[right]\n        if current_sum == k:\n            return casas[left], casas[right]\n        elif current_sum < k:\n            left += 1\n        else:\n            right -= 1",
+        "detail": "URI_2422",
+        "documentation": {}
+    },
+    {
+        "label": "n",
+        "kind": 5,
+        "importPath": "URI_2422",
+        "description": "URI_2422",
+        "peekOfCode": "n = int(input())\ncasas = [int(input()) for _ in range(n)]\nk = int(input())\nbrinquedo1, brinquedo2 = find_brinquedos(casas, k)\nif brinquedo1 is not None and brinquedo2 is not None:\n    print(f\"{brinquedo1} {brinquedo2}\")",
+        "detail": "URI_2422",
+        "documentation": {}
+    },
+    {
+        "label": "casas",
+        "kind": 5,
+        "importPath": "URI_2422",
+        "description": "URI_2422",
+        "peekOfCode": "casas = [int(input()) for _ in range(n)]\nk = int(input())\nbrinquedo1, brinquedo2 = find_brinquedos(casas, k)\nif brinquedo1 is not None and brinquedo2 is not None:\n    print(f\"{brinquedo1} {brinquedo2}\")",
+        "detail": "URI_2422",
+        "documentation": {}
+    },
+    {
+        "label": "k",
+        "kind": 5,
+        "importPath": "URI_2422",
+        "description": "URI_2422",
+        "peekOfCode": "k = int(input())\nbrinquedo1, brinquedo2 = find_brinquedos(casas, k)\nif brinquedo1 is not None and brinquedo2 is not None:\n    print(f\"{brinquedo1} {brinquedo2}\")",
+        "detail": "URI_2422",
+        "documentation": {}
+    },
+    {
+        "label": "min",
+        "kind": 2,
+        "importPath": "URI_2423",
+        "description": "URI_2423",
+        "peekOfCode": "def min(A, B, C):\n    cond1 = int(A <= B and A <= C)\n    cond2 = int(B <= A and B <= C)\n    cond3 = int(C <= A and C <= B)\n    saida = [A, B, C]\n    indice = (3*cond1 + cond2 + 2*cond3 - (cond2 and cond3)) % 3\n    return saida[indice]\nentr = input().split()\nA = int(entr[0])//2\nB = int(entr[1])//3",
+        "detail": "URI_2423",
+        "documentation": {}
+    },
+    {
+        "label": "entr",
+        "kind": 5,
+        "importPath": "URI_2423",
+        "description": "URI_2423",
+        "peekOfCode": "entr = input().split()\nA = int(entr[0])//2\nB = int(entr[1])//3\nC = int(entr[2])//5\nprint(min(A, B, C))",
+        "detail": "URI_2423",
+        "documentation": {}
+    },
+    {
+        "label": "A",
+        "kind": 5,
+        "importPath": "URI_2423",
+        "description": "URI_2423",
+        "peekOfCode": "A = int(entr[0])//2\nB = int(entr[1])//3\nC = int(entr[2])//5\nprint(min(A, B, C))",
+        "detail": "URI_2423",
+        "documentation": {}
+    },
+    {
+        "label": "B",
+        "kind": 5,
+        "importPath": "URI_2423",
+        "description": "URI_2423",
+        "peekOfCode": "B = int(entr[1])//3\nC = int(entr[2])//5\nprint(min(A, B, C))",
+        "detail": "URI_2423",
+        "documentation": {}
+    },
+    {
+        "label": "C",
+        "kind": 5,
+        "importPath": "URI_2423",
+        "description": "URI_2423",
+        "peekOfCode": "C = int(entr[2])//5\nprint(min(A, B, C))",
+        "detail": "URI_2423",
+        "documentation": {}
+    },
+    {
+        "label": "limite_x",
+        "kind": 5,
+        "importPath": "URI_2424",
+        "description": "URI_2424",
+        "peekOfCode": "limite_x = 432\nlimite_y = 468\nsaida = [\"fora\", \"dentro\"]\nx, y = [int(i) for i in input().split()]\nc1 = x >= 0 and x <= limite_x\nc1 = c1 and y >= 0 and y <= limite_y\nprint(saida[int(c1)])",
+        "detail": "URI_2424",
+        "documentation": {}
+    },
+    {
+        "label": "limite_y",
+        "kind": 5,
+        "importPath": "URI_2424",
+        "description": "URI_2424",
+        "peekOfCode": "limite_y = 468\nsaida = [\"fora\", \"dentro\"]\nx, y = [int(i) for i in input().split()]\nc1 = x >= 0 and x <= limite_x\nc1 = c1 and y >= 0 and y <= limite_y\nprint(saida[int(c1)])",
+        "detail": "URI_2424",
+        "documentation": {}
+    },
+    {
+        "label": "saida",
+        "kind": 5,
+        "importPath": "URI_2424",
+        "description": "URI_2424",
+        "peekOfCode": "saida = [\"fora\", \"dentro\"]\nx, y = [int(i) for i in input().split()]\nc1 = x >= 0 and x <= limite_x\nc1 = c1 and y >= 0 and y <= limite_y\nprint(saida[int(c1)])",
+        "detail": "URI_2424",
+        "documentation": {}
+    },
+    {
+        "label": "c1",
+        "kind": 5,
+        "importPath": "URI_2424",
+        "description": "URI_2424",
+        "peekOfCode": "c1 = x >= 0 and x <= limite_x\nc1 = c1 and y >= 0 and y <= limite_y\nprint(saida[int(c1)])",
+        "detail": "URI_2424",
+        "documentation": {}
+    },
+    {
+        "label": "c1",
+        "kind": 5,
+        "importPath": "URI_2424",
+        "description": "URI_2424",
+        "peekOfCode": "c1 = c1 and y >= 0 and y <= limite_y\nprint(saida[int(c1)])",
+        "detail": "URI_2424",
+        "documentation": {}
+    },
+    {
+        "label": "push",
+        "kind": 2,
+        "importPath": "URI_2929",
+        "description": "URI_2929",
+        "peekOfCode": "def push(args):\n    item = int(args[0])\n    stack.append(item)\n    if not min_stack or item <= min_stack[-1]:\n        min_stack.append(item)\ndef pop(args):\n    if stack:\n        popped_item = stack.pop()\n        if popped_item == min_stack[-1]:\n            min_stack.pop()",
+        "detail": "URI_2929",
+        "documentation": {}
+    },
+    {
+        "label": "pop",
+        "kind": 2,
+        "importPath": "URI_2929",
+        "description": "URI_2929",
+        "peekOfCode": "def pop(args):\n    if stack:\n        popped_item = stack.pop()\n        if popped_item == min_stack[-1]:\n            min_stack.pop()\ndef get_min(args):\n    if min_stack:\n        output.append(str(min_stack[-1]))\n    else:\n        output.append(\"EMPTY\")",
+        "detail": "URI_2929",
+        "documentation": {}
+    },
+    {
+        "label": "get_min",
+        "kind": 2,
+        "importPath": "URI_2929",
+        "description": "URI_2929",
+        "peekOfCode": "def get_min(args):\n    if min_stack:\n        output.append(str(min_stack[-1]))\n    else:\n        output.append(\"EMPTY\")\noperations = {\n    \"PUSH\": push,\n    \"POP\": pop,\n    \"MIN\": get_min,\n}",
+        "detail": "URI_2929",
+        "documentation": {}
+    },
+    {
+        "label": "n",
+        "kind": 5,
+        "importPath": "URI_2929",
+        "description": "URI_2929",
+        "peekOfCode": "n = int(input())\nstack = deque()\nmin_stack = deque()\noutput = []\ndef push(args):\n    item = int(args[0])\n    stack.append(item)\n    if not min_stack or item <= min_stack[-1]:\n        min_stack.append(item)\ndef pop(args):",
+        "detail": "URI_2929",
+        "documentation": {}
+    },
+    {
+        "label": "stack",
+        "kind": 5,
+        "importPath": "URI_2929",
+        "description": "URI_2929",
+        "peekOfCode": "stack = deque()\nmin_stack = deque()\noutput = []\ndef push(args):\n    item = int(args[0])\n    stack.append(item)\n    if not min_stack or item <= min_stack[-1]:\n        min_stack.append(item)\ndef pop(args):\n    if stack:",
+        "detail": "URI_2929",
+        "documentation": {}
+    },
+    {
+        "label": "min_stack",
+        "kind": 5,
+        "importPath": "URI_2929",
+        "description": "URI_2929",
+        "peekOfCode": "min_stack = deque()\noutput = []\ndef push(args):\n    item = int(args[0])\n    stack.append(item)\n    if not min_stack or item <= min_stack[-1]:\n        min_stack.append(item)\ndef pop(args):\n    if stack:\n        popped_item = stack.pop()",
+        "detail": "URI_2929",
+        "documentation": {}
+    },
+    {
+        "label": "output",
+        "kind": 5,
+        "importPath": "URI_2929",
+        "description": "URI_2929",
+        "peekOfCode": "output = []\ndef push(args):\n    item = int(args[0])\n    stack.append(item)\n    if not min_stack or item <= min_stack[-1]:\n        min_stack.append(item)\ndef pop(args):\n    if stack:\n        popped_item = stack.pop()\n        if popped_item == min_stack[-1]:",
+        "detail": "URI_2929",
+        "documentation": {}
+    },
+    {
+        "label": "operations",
+        "kind": 5,
+        "importPath": "URI_2929",
+        "description": "URI_2929",
+        "peekOfCode": "operations = {\n    \"PUSH\": push,\n    \"POP\": pop,\n    \"MIN\": get_min,\n}\nfor _ in range(n):\n    operation, *args = input().split()\n    operations[operation](args)\nprint(\"\\n\".join(output))",
+        "detail": "URI_2929",
+        "documentation": {}
+    }
+]
